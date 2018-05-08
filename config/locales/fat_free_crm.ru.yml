@@ -379,7 +379,7 @@ ru:
     кампании.
   objectives_small: целях кампании
   revenue: Доход
-  revenue_label: Доход (грн.)
+  revenue_label: Доход (руб.)
   revenue_number: ! '%{value} дохода'
   save_campaign: Сохранить Изменения
   start_date: Дата начала
@@ -699,6 +699,7 @@ ru:
   search_results_count:
     one: Найден %{count} результат.
     other: Найдено %{count} результатов.
+    zero: Не найдено результатов.
 
   # Views -> Comments.
   #----------------------------------------------------------------------------
